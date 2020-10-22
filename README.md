@@ -1,6 +1,6 @@
 # Retail Chain Customer Satisfaction(CSAT) Prediction
 
-![alt text](https://miro.medium.com/max/1400/1*DtVXY0bpPlKsWS2XhgdLCA.gif)
+![](https://miro.medium.com/max/1400/1*DtVXY0bpPlKsWS2XhgdLCA.gif?raw=true)
 
 **Objective:** To build complete application with a regression model to predict the Customer Satisfaction(CSAT) rating for the major retail chain.
 
